@@ -57,7 +57,7 @@ package.json	Dependencias del proyecto
 
 ⚙️ Instalación y ejecución
 1️⃣ Clonar el repositorio
-[git clone https://github.com/usuario/practica-asincrona-web.git](https://github.com/albertoojeda-creater/Practica_asincrona_web.git)
+git clone https://github.com/albertoojeda-creater/Practica_asincrona_web.git
 2️⃣ Entrar al proyecto
 cd practica-asincrona-web
 3️⃣ Instalar dependencias
