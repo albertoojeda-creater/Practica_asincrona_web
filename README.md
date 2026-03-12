@@ -1,4 +1,4 @@
-# Practica_asicrona_web
+# Practica_asincrona_web
 
 📚 Asignatura
 
