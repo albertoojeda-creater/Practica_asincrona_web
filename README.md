@@ -46,6 +46,7 @@ practica-asincrona-web
 │
 ├── server.js
 └── package.json
+
 Descripción de archivos
 Archivo	Descripción
 server.js	Servidor Express que proporciona la API de productos
@@ -53,9 +54,10 @@ index.html	Interfaz principal de la aplicación
 styles.css	Estilos del sitio web
 app.js	Lógica de la aplicación y peticiones asíncronas
 package.json	Dependencias del proyecto
+
 ⚙️ Instalación y ejecución
 1️⃣ Clonar el repositorio
-git clone https://github.com/usuario/practica-asincrona-web.git
+[git clone https://github.com/usuario/practica-asincrona-web.git](https://github.com/albertoojeda-creater/Practica_asincrona_web.git)
 2️⃣ Entrar al proyecto
 cd practica-asincrona-web
 3️⃣ Instalar dependencias
